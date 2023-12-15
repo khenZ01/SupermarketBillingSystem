@@ -21,8 +21,8 @@ Industry, Innovation and Infrastracture
 
 # Technologies Used 
 
--Phyton
--Pycharm
+- Phyton
+- Pycharm
 
 # Extra Effort Video Presentation
 https://drive.google.com/drive/folders/1V4l45aGZC519hN-vWcP60cdBdGIbSKKf
