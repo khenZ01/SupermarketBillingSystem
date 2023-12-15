@@ -6,7 +6,9 @@ Industry, Innovation and Infrastracture
 
 
 # Features
-    fjsahhvfjsk
+    - The System ask if you want to save the receipt in the bill area
+<img width="960" alt="Screenshot 2023-12-09 164449" src="https://github.com/khenZ01/SupermarketBillingSystem/assets/153255839/0b59fc07-cbb3-49cd-9bee-0b43592ed042">
+
 
   
 # Individual and Group Assesment
