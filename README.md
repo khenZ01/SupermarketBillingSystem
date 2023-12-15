@@ -11,7 +11,9 @@ Industry, Innovation and Infrastracture
 
 - If you click the email button it will display this
 <img width="960" alt="Screenshot 2023-12-09 164554" src="https://github.com/khenZ01/SupermarketBillingSystem/assets/153255839/65ddc1ad-6ece-43f9-abf1-0cd2f6c2a5fc">
- 
+- If you click the print button it will display like this and you have to select which path are you storing your receipt to print it
+  <img width="960" alt="Screenshot 2023-12-09 164612" src="https://github.com/khenZ01/SupermarketBillingSystem/assets/153255839/de04aa32-cbd8-4123-847e-ae89b402d7f7">
+
   
 # Individual and Group Assesment
 
