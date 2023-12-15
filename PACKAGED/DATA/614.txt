@@ -1,0 +1,18 @@
+		**Welcome Customer**
+
+Bill Number: 614
+
+Customer Name: Jherylle Ada
+
+Customer Phone Number: 09155053547
+
+=======================================================Product			Quantity			Price
+=======================================================
+Cannedgoods			3			141
+Mojito			2			300
+-------------------------------------------------------
+Grocery Tax				7.050000000000001 PHP
+Drinks Tax				24.0 PHP
+
+Total Bill 				 441
+-------------------------------------------------------

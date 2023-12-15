@@ -1,0 +1,20 @@
+		**Welcome Customer**
+
+Bill Number: 670
+
+Customer Name: group 4 
+
+Customer Phone Number: 2106
+
+=======================================================Product			Quantity			Price
+=======================================================
+Bath Soap			1			40
+Rice			2			3000
+Mountain Dew			3			75
+-------------------------------------------------------
+Hygiene Tax				4.8 PHP
+Grocery Tax				150.0 PHP
+Drinks Tax				6.0 PHP
+
+Total Bill 				 3115
+-------------------------------------------------------

@@ -1,0 +1,20 @@
+		**Welcome Customer**
+
+Bill Number: 923
+
+Customer Name: Francheska
+
+Customer Phone Number: 09265679857
+
+=======================================================Product Price			Quantity
+=======================================================
+Toothbrush			2			40
+Cannedgoods			3			141
+Mojito			2			300
+-------------------------------------------------------
+Hygiene Tax				4.8 PHP
+Grocery Tax				7.050000000000001 PHP
+Drinks Tax				24.0 PHP
+
+Total Bill 				 481
+-------------------------------------------------------
