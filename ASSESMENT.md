@@ -59,8 +59,8 @@ Asinas, Michaella D. :
 
 Embarking on a Python project without much prior familiarity can indeed be a challenging yet rewarding experience, pushing you to explore, learn, and develop new skills along the way. I began by researching the basics of Python programming. I scoured through online tutorials, documentation, and YouTube videos to grasp the fundamentals.In making our project there were frustrating times—hours spent debugging, deciphering cryptic error messages, and wrestling with concepts that seemed elusive. But amidst the challenges, the satisfaction of seeing the code execute as intended was unparalleled. As the project evolved, so did my confidence. Although I'm still not an expert in Python, this experience taught me that diving into a project, even with limited knowledge, can be an incredible way to learn and grow as a programmer.
 
-Sobelino, James Carl A.:
+Sobelino, James Carl A. :
 
 Designing a supermarket billing system in Python was both challenging and rewarding. Tackling product databases, implementing pricing algorithms, and crafting a user-friendly interface pushed my coding skills. Debugging became a puzzle, and with each resolved issue, I witnessed the tangible impact of programming on practical, real-world scenarios. Crafting functions for buttons in Python GUIs was enlightening. Defining actions like opening files, processing data, or navigating screens imbued the interface with functionality. Each button became a gateway to a specific task, offering a seamless and interactive user experience. It's the art of turning clicks into meaningful actions.
 
-# END
+# ___
