@@ -1,0 +1,20 @@
+		**Welcome Customer**
+
+Bill Number: 507
+
+Customer Name: Francheska
+
+Customer Phone Number: 09265679857
+
+=======================================================Product			Quantity			Price
+=======================================================
+Bath Soap			2			80
+Rice			4			6000
+Sprite			5			125
+-------------------------------------------------------
+Hygiene Tax				9.6 PHP
+Grocery Tax				300.0 PHP
+Drinks Tax				10.0 PHP
+
+Total Bill 				 6205
+-------------------------------------------------------
