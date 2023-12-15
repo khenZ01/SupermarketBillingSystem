@@ -1,14 +1,12 @@
 # Project Overview (SupermarketBillingSystem)
 This is an innovation project that is different from the usual billing system; where they need paper to print their receipt. But on our project there's an option where you can send it to customer's email to reduce the use of papers.
 
-# SDG
+# SDG-py
 Industry, Innovation and Infrastracture
 
 
-# Details of the project
-This is an innovation project that is different from the usual billing system; where they need paper to print their receipt. But on our project there's an option where you can send it to customer's email to reduce the use of papers.
-
-<img width="960" alt="Screenshot 2023-12-09 164634" src="https://github.com/khenZ01/SupermarketBillingSystem/assets/153255839/bf1132f9-ca73-4766-b149-1f10165d2e46">
+# Features
+    fjsahhvfjsk
 
   
 # Individual and Group Assesment
