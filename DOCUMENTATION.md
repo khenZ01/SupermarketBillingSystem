@@ -5,7 +5,7 @@
  
 # Dependencies
 - Tkinter
-- 
+  
 # Contributing
 If you want to contribute on our project, follow this guidelines:
 1. Click the repository.
