@@ -108,6 +108,7 @@ Designing a supermarket billing system in Python was both challenging and reward
 #
 
 ____________________________________________________________________________________________________________________________
+# Documentation
 
 # Project Outline
 The project is a Supermarket Billing System that built with Python and Tkinter. It is an innovation to the usual Supermarket Billing System that needs paper to print out the receipt; in this project the receipt can be sent through email to reduce the use of paper.
