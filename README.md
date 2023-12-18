@@ -31,9 +31,9 @@ Industry, Innovation and Infrastracture
 
 ## Members:
 - Aldea, Francheska C.
-- Ada, Jherylle Maxene
+- Ada, Jherylle Maxene P.
 - Asinas, Michaella D.
-- Sobelino, James Carl
+- Sobelino, James Carl A.
 
 # Extra Effort 
 https://drive.google.com/drive/folders/1V4l45aGZC519hN-vWcP60cdBdGIbSKKf
