@@ -40,7 +40,7 @@ https://drive.google.com/drive/folders/1V4l45aGZC519hN-vWcP60cdBdGIbSKKf
 
 ____________________________________________________________________________________________________________________________
 
-# Group Member Grading and Contributions
+# Group Member Grading, Contributions and Self & Group Assesment
 
 ##  Aldea, Francheska Noreen C.
 
