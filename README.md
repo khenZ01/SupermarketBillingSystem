@@ -40,6 +40,9 @@ https://drive.google.com/drive/folders/1V4l45aGZC519hN-vWcP60cdBdGIbSKKf
 
 ____________________________________________________________________________________________________________________________
 
+
+
+
 # Group Member Grading, Contributions and Self & Group Assesment
 
 ##  Aldea, Francheska Noreen C.
@@ -108,6 +111,10 @@ Designing a supermarket billing system in Python was both challenging and reward
 #
 
 ____________________________________________________________________________________________________________________________
+
+
+
+
 # Documentation
 
 # Project Outline
