@@ -30,10 +30,10 @@ Industry, Innovation and Infrastracture
 - Tkinter
 
 ## Members:
-Aldea, Francheska C.
-Ada, Jherylle Maxene
-Asinas, Michaella D.
-Sobelino, James Carl
+- Aldea, Francheska C.
+- Ada, Jherylle Maxene
+- Asinas, Michaella D.
+- Sobelino, James Carl
 
 # Extra Effort 
 https://drive.google.com/drive/folders/1V4l45aGZC519hN-vWcP60cdBdGIbSKKf
